@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <!-- Neo-Cubist Emobi Mark -->
+  <rect x="5" y="5" width="90" height="90" rx="0" fill="#FFE600" stroke="#111111" stroke-width="6"/>
+  <!-- Sharp cubist facet -->
+  <polygon points="5,5 95,5 50,50" fill="#FFD000" stroke="#111111" stroke-width="4"/>
+  <polygon points="95,5 95,95 50,50" fill="#111111"/>
+  <!-- Central eye/core cube -->
+  <rect x="35" y="35" width="30" height="30" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <rect x="42" y="42" width="16" height="16" fill="#FFE600" stroke="#111111" stroke-width="3"/>
+  <circle cx="50" cy="50" r="3" fill="#111111"/>
+</svg>
